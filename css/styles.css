@@ -519,6 +519,7 @@ img {
 
 .site-footer-logo-link {
   display: flex;
+  flex-shrink: 0;
   transition: opacity 0.5s ease;
 }
 
