@@ -221,6 +221,11 @@ img {
   opacity: 0.6;
 }
 
+.sitenav-medium-font {
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
 .sitenav-medium-font .sitenav-link {
   font-size: 16px;
   line-height: normal;
@@ -555,7 +560,7 @@ img {
   display: flex;
   color: var(--text-color);
   transition: opacity 0.5s ease,
-              color 0.5s ease;
+  color 0.5s ease;
 }
 
 .socials-link:hover {
